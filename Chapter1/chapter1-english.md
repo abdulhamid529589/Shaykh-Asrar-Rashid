@@ -8,6 +8,92 @@
 
 ---
 
+## 📋 TABLE OF CONTENTS
+
+### PART ONE: THE BOOK — ARCHITECTURE AND FRAMING
+- [1.1 The Title and Purpose of the Book](#11-the-title-and-purpose-of-the-book)
+- [1.2 The Opening Quotation — George Bernard Shaw](#12-the-opening-quotation--george-bernard-shaw)
+- [1.3 Concept: Compounded Ignorance (Jahlu Murakkab)](#13-concept-compounded-ignorance-jahlu-murakkab)
+- [1.4 The Dedication — Sancho Panza and the Muslim as Realist](#14-the-dedication--sancho-panza-and-the-muslim-as-realist)
+- [1.5 The Mosaic Structure of the Book](#15-the-mosaic-structure-of-the-book)
+
+### PART TWO: THE POLITICAL CONTEXT — NEW ATHEISM AS A MOVEMENT
+- [2.1 September 11, 2001 and Its Aftermath](#21-september-11-2001-and-its-aftermath)
+- [2.2 Nazi Propaganda — Goebbels' Method](#22-nazi-propaganda--goebbels-method)
+- [2.3 The Summary of Anti-Islamic Propaganda](#23-the-summary-of-anti-islamic-propaganda-the-exaggerated-vitriol)
+- [2.4 New Atheism — Defined and Contextualized](#24-new-atheism--defined-and-contextualized)
+- [2.5 Christopher Hitchens — Detailed Analysis](#25-christopher-hitchens--detailed-analysis)
+- [2.6 Depleted Uranium — What It Is](#26-depleted-uranium--what-it-is)
+- [2.7 Winston Churchill — Historical Precedent](#27-winston-churchill--historical-precedent)
+- [2.8 Richard Dawkins — Detailed Analysis](#28-richard-dawkins--detailed-analysis)
+- [2.9 Sam Harris — Detailed Analysis](#29-sam-harris--detailed-analysis)
+- [2.10 Richard Dawkins and Jeffrey Epstein](#210-richard-dawkins-and-jeffrey-epstein)
+
+### PART THREE: CHAPTER 1 — THE ROLE OF REASON IN ISLAMIC FAITH
+- [3.1 Opening Quote of Chapter 1 — Sayyiduna Ali ibn Abi Talib (RA)](#31-opening-quote-of-chapter-1--sayyiduna-ali-ibn-abi-talib-ra)
+- [3.2 Concept: Fideism and Why Islam Rejects It](#32-concept-fideism-and-why-islam-rejects-it)
+- [3.3 The Two Analogies — Iman and the Intellect](#33-the-two-analogies--iman-and-the-intellect)
+- [3.4 The Psychological Dimensions of Belief and Disbelief](#34-the-psychological-dimensions-of-belief-and-disbelief)
+
+### PART FOUR: THE HISTORY OF KALAM — RATIONAL THEOLOGY IN ISLAM
+- [4.1 What is Kalam (علم الكلام)?](#41-what-is-kalam-علم-الكلام)
+- [4.2 The Two Schools of Kalam](#42-the-two-schools-of-kalam)
+- [4.3 The Translation Movement — Greek Philosophy into Arabic](#43-the-translation-movement--greek-philosophy-into-arabic)
+- [4.4 The Khawarij — The First Sectarian Split](#44-the-khawarij--the-first-sectarian-split)
+- [4.5 The Mu'tazilah — Origin, Doctrine, and Legacy](#45-the-mutazilah--origin-doctrine-and-legacy)
+- [4.6 Imam Al-Ash'ari and the Famous Debate](#46-imam-al-ashari-and-the-famous-debate)
+- [4.7 The Abbasid Caliphate — Encounter with Eastern Orthodox Christianity](#47-the-abbasid-caliphate--encounter-with-eastern-orthodox-christianity)
+
+### PART FIVE: THREE TYPES OF BELIEF AND THE OBLIGATION OF KNOWLEDGE
+- [5.1 The Three Categories of Belief](#51-the-three-categories-of-belief)
+- [5.2 What Constitutes Blind Faith?](#52-what-constitutes-blind-faith)
+- [5.3 The Obligation of Investigation (Nazar)](#53-the-obligation-of-investigation-nazar--النظر)
+
+### PART SIX: THE PHILOSOPHICAL PROOF TRADITION — FROM BEDOUINS TO RAZI
+- [6.1 Different Levels of Proof for Different Minds](#61-different-levels-of-proof-for-different-minds)
+- [6.2 The Bedouin's Argument — The Camel Tracks](#62-the-bedouins-argument--the-camel-tracks)
+- [6.3 The Old Woman's Two Arguments](#63-the-old-womans-two-arguments)
+- [6.4 Imam Fakhr al-Din al-Razi and the Old Woman's Response](#64-imam-fakhr-al-din-al-razi-and-the-old-womans-response)
+
+### PART SEVEN: AL-GHAZALI, RELIGIOUS HYPOCRISY, AND SCIENCE
+- [7.1 Imam al-Ghazali's Position on Kalam](#71-imam-al-ghazalis-position-on-kalam)
+- [7.2 Abu Bakr al-Furak and Abu Ishaq al-Isfarayini](#72-abu-bakr-al-furak-and-abu-ishaq-al-isfarayini)
+- [7.3 The Two Types of Religious Hypocrisy](#73-the-two-types-of-religious-hypocrisy)
+- [7.4 Roald Dahl — Loss of Faith Through Religious Hypocrisy](#74-roald-dahl--loss-of-faith-through-religious-hypocrisy)
+- [7.5 Bertrand Russell — The Philosopher's Critique](#75-bertrand-russell--the-philosophers-critique)
+- [7.6 The Satanic Verses Affair](#76-the-satanic-verses-affair)
+
+### PART EIGHT: SCIENCE AND SCIENTISM
+- [8.1 Science is Neutral](#81-science-is-neutral)
+- [8.2 What is Scientism?](#82-what-is-scientism)
+- [8.3 The Al-Azhar Crisis and Mustafa Sabri](#83-the-al-azhar-crisis-and-mustafa-sabri)
+- [8.4 Edward Bernays and Modern Propaganda](#84-edward-bernays-and-modern-propaganda)
+
+### PART NINE: THE INTUITIVE MIND OF THE SALAF
+- [9.1 The Superiority of the Salaf's Knowledge](#91-the-superiority-of-the-salafs-knowledge)
+- [9.2 Sayyiduna Ali's Mathematical and Legal Genius](#92-sayyiduna-alis-mathematical-and-legal-genius)
+
+### PART TEN: 15 ATHEISTIC FALLACIES — FIRST SIX DETAILED
+- [10.1 What is a Fallacy?](#101-what-is-a-fallacy)
+- [10.2 Fallacy 1: Generalizing Something Which is Specific](#102-fallacy-1-generalizing-something-which-is-specific)
+- [10.3 Fallacy 2: Specifying Something Which is General](#103-fallacy-2-specifying-something-which-is-general)
+- [10.4 Fallacy 3: Additions — Adding What is Not in the Original](#104-fallacy-3-additions--adding-what-is-not-in-the-original)
+- [10.5 Fallacy 4: Hiding Conditions and Limits Which Change the Context](#105-fallacy-4-hiding-conditions-and-limits-which-change-the-context)
+- [10.6 Fallacy 5: Using Quotes Without the Previous or Following Text](#106-fallacy-5-using-quotes-without-the-previous-or-following-text)
+- [10.7 Fallacy 6: Playing With the Meaning of the Text](#107-fallacy-6-playing-with-the-meaning-of-the-text-to-establish-a-point)
+
+### PART ELEVEN: ADDITIONAL CONCEPTS AND REFERENCES
+- [11.1 The Saudi Woman Asylum Case — A Propaganda Example](#111-the-saudi-woman-asylum-case--a-propaganda-example)
+- [11.2 Fibonacci Numbers — Brief Reference](#112-fibonacci-numbers--brief-reference)
+- [11.3 The Snowflake Reference](#113-the-snowflake-reference)
+- [11.4 The Sufi Tradition — Authentic vs. Deviated](#114-the-sufi-tradition--authentic-vs-deviated)
+- [11.5 Types of Knowledge in Islamic Theology](#115-types-of-knowledge-in-islamic-theology)
+
+### COMPREHENSIVE GLOSSARY
+- [All Terms from Session 12 — A to Z](#comprehensive-glossary--all-terms-from-session-12)
+
+---
+
 ## PART ONE: THE BOOK — ARCHITECTURE AND FRAMING
 
 ---
