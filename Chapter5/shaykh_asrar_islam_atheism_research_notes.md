@@ -30,25 +30,34 @@
 14. [5.13 — Paradigm Shifts and Darwinian Evolution Theory](#513)
 
 ### CHAPTER 6 — QURAN, SUNNAH & SHARIA
-15. [6.2 — Preservation of the Quran: Full Analysis](#62)
-16. [6.2a — The First Compilation Under Abu Bakr RA](#62a)
-17. [6.2b — The Second Compilation Under Uthman RA](#62b)
-18. [6.2c — The Master Rule for All Quranic Preservation Objections](#62c)
-19. [6.3 — The Seven Ahruf and the Ten Qira'at](#63)
-20. [6.3a — Abrogation (Naskh) in the Quran](#63a)
-21. [6.3b — Personal Copies of the Sahaba](#63b)
-22. [6.4 — Classification of Hadith: Full Technical Analysis](#64)
-23. [6.4a — Historical Development of Hadith Literature](#64a)
-24. [6.5 — Sharia Law: Political Context and Overview](#65)
-25. [6.6 — Jihad: Definition, Context and Responses](#66)
-26. [6.7 — Slavery in Islam: Complete Analysis](#67)
-27. [6.7a — The Banu Qurayza Verdict](#67a)
-28. [6.8 — Corporal Punishment (Hudud): Full Technical Analysis](#68)
-29. [6.8a — The Private Individual vs. Public Vice](#68a)
-30. [6.9 — Women's Rights in Islam: Complete Analysis](#69)
-31. [Appendix A — Master Rules and Principles for Research](#appendix-a)
-32. [Appendix B — Epistemological Framework](#appendix-b)
-33. [Appendix C — All Case Studies Referenced](#appendix-c)
+15. [6.1 — The Opening of Chapter 6: Dostoyevsky and the Moral Argument](#61)
+16. [6.1a — Maurice Bucaille and the Distinction Between Quran and Hadith](#61a)
+17. [6.1b — The 60-Foot Adam Hadith: A Detailed Analysis](#61b)
+18. [6.2 — Preservation of the Quran: Full Analysis](#62)
+19. [6.2a — The First Compilation Under Abu Bakr RA](#62a)
+20. [6.2b — The Second Compilation Under Uthman RA](#62b)
+21. [6.2c — The Master Rule for All Quranic Preservation Objections](#62c)
+22. [6.3 — The Seven Ahruf and the Ten Qira'at](#63)
+23. [6.3a — Abrogation (Naskh) in the Quran](#63a)
+24. [6.3b — Personal Copies of the Sahaba](#63b)
+25. [6.4 — Classification of Hadith: Full Technical Analysis](#64)
+26. [6.4a — Historical Development of Hadith Literature](#64a)
+27. [6.5 — Sharia Law: Political Context and Overview](#65)
+28. [6.5a — The Caliphate: Sharia Governance in Practice](#65a)
+29. [6.6 — Jihad: Definition, Context and Responses](#66)
+30. [6.7 — Slavery in Islam: Complete Analysis](#67)
+31. [6.7a — The Banu Qurayza Verdict](#67a)
+32. [6.8 — Corporal Punishment (Hudud): Full Technical Analysis](#68)
+33. [6.8a — The Private Individual vs. Public Vice](#68a)
+34. [6.8b — Homosexuality in Islam: The Complete Analysis](#68b)
+35. [6.9 — Women's Rights in Islam: Complete Analysis](#69)
+36. [6.9a — Hijab in Islam: Context and Ruling](#69a)
+37. [6.9b — Polygamy in Islam: Historical Context](#69b)
+38. [6.9c — The "Rib" Hadith — Complete Contextual Reading](#69c)
+39. [6.10 — The Closing of the Book: The Circus Goes On](#610)
+40. [Appendix A — Master Rules and Principles for Research](#appendix-a)
+41. [Appendix B — Epistemological Framework](#appendix-b)
+42. [Appendix C — All Case Studies Referenced](#appendix-c)
 
 ---
 
@@ -1874,6 +1883,16 @@ Only **Tier 1** knowledge — absolute empirical certainty — can legitimately 
 | Talaq laws | Divorce rights | Protects women from endless revocation; khul' available to women | p. 350 |
 | The strike verse | Alleged wife-beating | Three-stage process; symbolic; government can suspend; husband also subject to it | p. 350–351 |
 | Darwinian evolution | Science vs. Quran | Below certainty threshold; Dawkins himself admits paradigm shift possible | p. 273–276 |
+| Maurice Bucaille | Quran vs. Hadith methodology | Quran: no errors; Hadith: requires special methodology; Bucaille erred on hadith | p. 255 (context) |
+| 60-foot Adam hadith | Hadith vs. archaeology | Not rationally impossible; Ibn Abbas says refers to Paradise height; beauty interpretation | p. 263–264 |
+| Dostoyevsky epigraph | Moral argument for Sharia | Without God, all is permitted; divine law provides non-arbitrary moral standard | Chapter 6 opening |
+| Hijab ruling | Women's rights | No hadd punishment for not wearing; must be worn willingly from iman, not compulsion | p. 339–341 |
+| Polygamy context | Women's rights | Was a restriction on pre-Islamic unlimited marriage + simultaneous divorce abuse | p. 338–339 |
+| The "rib" hadith | Women's rights | Full hadith commands kindness; rib protects the heart — symbol of protection not weakness | p. 347 |
+| Gay gene claim | Homosexuality | No single gay gene (500,000-person study); Kinsey Report discredited; 25% genetic max | p. 336 |
+| Caliphate governance | Sharia governance | Governed 1,300 years; British found Mughal law TOO lenient; not a utopia but functional | p. 314 |
+| Forced marriage to chieftains | Polygamy/marriage reform | Quran cancelled Arab cultural obligation for leaders to accept all offers | p. 338 |
+| The circus goes on | Book conclusion | Objections never end; book provides toolkit for counter-arguments | Book conclusion |
 
 ---
 
